@@ -247,17 +247,18 @@ footer {
         display: none;
     }
     .navlink {
-        width: 30%;
+        width: 40%;
     }
     .toggle.active {
         left: -100px;
     }
     .navlink ul li a {
         font-size: 1.2em;
-        margin-left: 50px;
+        margin-left: -50px;
     }
     .sci {
         position: absolute;
         left: 0;
     }
+   
 }
